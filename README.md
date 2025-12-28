@@ -5,7 +5,7 @@ A modern desktop application built with **JavaFX** that displays a digital clock
 Unlike traditional console apps, this project uses a graphical user interface (GUI) defined in FXML (`hello-view.fxml`) to separate the design from the logic. It leverages the JavaFX `Stage` and `Scene` architecture to render a responsive window.
 ## Demo
 
-https://github.com/user-attachments/assets/018f8e54-d810-4dec-a292-781bcb012f6d
+![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/300a6637-99f3-40d2-a627-9946c624b973)
 
 ## Key Features
 
